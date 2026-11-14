@@ -73,5 +73,10 @@ mkcdc-website/
 
 - **Head Office:** Addis Ababa, Ethiopia
 - **Phone:** +251 91 179 3321
-- **Email:** info@mkcdc.org
+- **Emails:**
+  - General Inquiries: info@mkcdc.org
+  - Emergency & Relief: mkcdcem@mkcdc.org
+  - Executive Office: ed@mkcdc.org
+- **Executive Director (Shambu Balcha):** shambubalcha2020@mkcdc.org
 - **Website:** [www.mkcdc.org](https://www.mkcdc.org)
+
