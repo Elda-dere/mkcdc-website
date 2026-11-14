@@ -1,0 +1,7 @@
+# Temporary and scratch files
+downloaded_raw/
+cleaned_pages/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
