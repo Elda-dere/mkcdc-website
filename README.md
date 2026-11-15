@@ -79,4 +79,5 @@ mkcdc-website/
   - Executive Office: ed@mkcdc.org
 - **Executive Director (Shambu Balcha):** shambubalcha2020@mkcdc.org
 - **Website:** [www.mkcdc.org](https://www.mkcdc.org)
+- **LinkedIn:** [MKC-DC on LinkedIn](https://www.linkedin.com/company/mkc-dc/)
 
